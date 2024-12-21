@@ -1,10 +1,10 @@
 ## Hi there 👋
 # Hi there! 👋 I'm Aymane
 
-Welcome to my GitHub profile! I'm an aspiring **web developer** passionate about learning, creating, and solving problems with code. Here's a little about me:
+Welcome to my GitHub profile! I'm an aspiring **Python developer** passionate about learning, creating, and solving problems with code. Here's a little about me:
 
 ## 🌟 About Me
-I'm a Junior Web developer, and programmer. I'm a boy with a huge ambition to become one of the best developers, I try to invest all my free time to develop my skills
+I'm a programmer. I'm a boy with a huge ambition to become one of the best developers, I try to invest all my free time to develop my skills
 My approach combines technical expertise with creative problem-solving, ensuring each project not only meets but exceeds expectations.
 - 🌐 Exploring the world of **web development** with **HTML, CSS, and JavaScript**.
 - 🚀 On a mission to become a famous programmer and make an impact in the tech world.
