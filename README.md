@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there! 👋 I'm Aymane
+## Hi there! 👋 I'm Aymane
 
 Welcome to my GitHub profile! I'm an aspiring **Python developer** passionate about learning, creating, and solving problems with code. Here's a little about me:
 
@@ -26,5 +25,6 @@ My approach combines technical expertise with creative problem-solving, ensuring
 ⭐️ **Fun Fact**: I believe every line of code can tell a story!
 
 Thanks for visiting! Feel free to check out my repositories and leave a ⭐️ if you find something interesting!
+@berhocode
 
 
