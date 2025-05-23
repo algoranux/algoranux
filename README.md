@@ -17,9 +17,6 @@ My approach combines technical expertise with creative problem-solving, ensuring
 ## 📈 GitHub Stats
 ![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderaymane&show_icons=true&theme=radical)
 
-## 🌐 Let's Connect
-- 📫 Reach me at: [aymane.berhoua@gmail.com](mailto:aymane.berhoua@gmail.com)
-
 ---
 
 ⭐️ **Fun Fact**: I believe every line of code can tell a story!
