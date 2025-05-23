@@ -25,6 +25,6 @@ My approach combines technical expertise with creative problem-solving, ensuring
 ⭐️ **Fun Fact**: I believe every line of code can tell a story!
 
 Thanks for visiting! Feel free to check out my repositories and leave a ⭐️ if you find something interesting!
-@berhocode
+@algoranux
 
 
